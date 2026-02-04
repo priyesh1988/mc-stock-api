@@ -25,6 +25,9 @@ Returns:
 - A Finnhub API key (free tier is fine)
   - Set env var: `FINNHUB_API_KEY`
 
+Alphavantage endpoint used: Time Series Stock Data
+Docs: https://www.alphavantage.co/documentation/
+
 Finnhub endpoint used: Company News (daily)  
 Docs: https://finnhub.io/docs/api/company-news
 
