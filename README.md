@@ -26,6 +26,7 @@ Returns:
   - Set env var: `FINNHUB_API_KEY`
 
 Alphavantage endpoint used: Time Series Stock Data
+Docs: https://www.alphavantage.co/documentation/api/
 
 Finnhub endpoint used: Company News (daily)  
 Docs: https://finnhub.io/docs/api/company-news
