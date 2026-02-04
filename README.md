@@ -21,6 +21,7 @@ Returns:
 
 ## Prerequisites
 - Python 3.11+
+- Alphavantage API key
 - A Finnhub API key (free tier is fine)
   - Set env var: `FINNHUB_API_KEY`
 
